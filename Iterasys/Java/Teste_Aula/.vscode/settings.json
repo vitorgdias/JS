@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.jdt.ls.java.home" : "c:\\Program Files\\Java\\jdk-18.0.2.1",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "C:\\Users\\vitor\\OneDrive\\Área de Trabalho\\Vitor\\Java\\junit-platform-console-standalone-1.8.2.jar"
+
+    ]
+}
